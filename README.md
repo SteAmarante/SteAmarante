@@ -1,6 +1,6 @@
 ### Olá, sou a Ste! 👋
 
-Bem-vinda ao meu perfil do GitHub. Sou uma desenvolvedora apaixonada por ... (adicione aqui uma breve descrição sobre você, seus interesses ou o que você está aprendendo).
+Bem-vinda ao meu perfil do GitHub. Sou uma desenvolvedora apaixonada por aprender.
 
 ---
 
