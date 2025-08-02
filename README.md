@@ -46,7 +46,7 @@ Bem-vinda ao meu perfil do GitHub. Sou uma desenvolvedora apaixonada por ... (ad
   </table>
 </div>
 
----
+
 ## Estou aprendendo
 <div align="center">
   <table>
