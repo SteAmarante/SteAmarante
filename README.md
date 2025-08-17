@@ -59,7 +59,6 @@ Bem-vindos ao meu perfil do GitHub. Sou uma desenvolvedora apaixonada por aprend
   </table>
 </div>
 
----
 
 
 ## Melhore sua Velocidade de Digitação
