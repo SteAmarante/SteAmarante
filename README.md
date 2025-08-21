@@ -1,6 +1,6 @@
 ### Olá, sou a Ste! 👋
 
-Bem-vindos ao meu perfil do GitHub. Sou uma desenvolvedora apaixonada por aprender.
+Bem-vindos ao meu perfil do GitHub. Sou uma desenvolvedora apaixonada por aprender. Atualmente, meu foco é em ciência de dados/engenharia de dados e aprendizado de máquina, por isso a maior parte da minha atividade está em Jupyter Notebook.
 
 ---
 
