@@ -1,6 +1,6 @@
-### Olá, sou a Ste! 👋
+### Olá, sou a Stephanie! 👋
 
-Bem-vindos ao meu perfil do GitHub. Sou uma desenvolvedora apaixonada por aprender. Atualmente, meu foco é em ciência de dados/engenharia de dados e aprendizado de máquina, por isso a maior parte da minha atividade está em Jupyter Notebook.
+Bem-vindos ao meu perfil do GitHub. Sou uma desenvolvedora apaixonada por aprender. Cursando o último semestre de Análise e Desenvolvimento de Sistemas na Fatec Ipiranga. Atualmente, meu foco é em ciência/engenharia de dados e aprendizado de máquina, por isso a maior parte da minha atividade está em Jupyter Notebook.
 
 ---
 
@@ -12,7 +12,20 @@ Bem-vindos ao meu perfil do GitHub. Sou uma desenvolvedora apaixonada por aprend
 
 ---
 
-## Ferramentas e Tecnologias Aprendidas
+## 🏆 Certificações e Badges
+
+<div align="center">
+
+| Plataforma | Acesso Rápido |
+| :--- | :--- |
+| **Microsoft Learn** | [<img src="https://img.shields.io/badge/Microsoft_Learn-258ffa?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Learn">](https://learn.microsoft.com/pt-br/users/stephanieamarante-9524/) |
+| **Credly** | [<img src="https://img.shields.io/badge/Credly-FF6B27?style=for-the-badge&logo=credly&logoColor=white" alt="Credly">](https://www.credly.com/users/stephanie-carolline-amarante/badges#credly) |
+| **Replit** | [<img src="https://img.shields.io/badge/Replit-F26207?style=for-the-badge&logo=replit&logoColor=white" alt="Replit">](https://replit.com/@stephanieamara1) |
+
+</div>
+
+
+## ⚒️ Ferramentas e Tecnologias Aprendidas
 
 <div align="center">
   <table>
@@ -47,7 +60,7 @@ Bem-vindos ao meu perfil do GitHub. Sou uma desenvolvedora apaixonada por aprend
 </div>
 
 
-## Estou aprendendo
+## 📚 Estou aprendendo
 <div align="center">
   <table>
         <td align="center" width="96">
@@ -61,9 +74,11 @@ Bem-vindos ao meu perfil do GitHub. Sou uma desenvolvedora apaixonada por aprend
 
 
 
-## Melhore sua Velocidade de Digitação
+## ⌨️ Melhore sua Velocidade de Digitação
 
+<div align="center">
 <a href="https://10fastfingers.com/typing-test/portuguese">
   <img src="http://img.10fastfingers.com/badge/typing-test_4_CM.png" alt="Teste de Digitação" />
 </a>
 <p>Visite o <a href="https://10fastfingers.com/typing-test/portuguese">Teste de Digitação</a> e aprimore sua velocidade!</p>
+</div>
