@@ -20,7 +20,6 @@ Bem-vindos ao meu perfil do GitHub. Sou uma desenvolvedora apaixonada por aprend
 | :--- | :--- |
 | **Microsoft Learn** | [<img src="https://img.shields.io/badge/Microsoft_Learn-258ffa?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Learn">](https://learn.microsoft.com/pt-br/users/stephanieamarante-9524/) |
 | **Credly** | [<img src="https://img.shields.io/badge/Credly-FF6B27?style=for-the-badge&logo=credly&logoColor=white" alt="Credly">](https://www.credly.com/users/stephanie-carolline-amarante/badges#credly) |
-| **Replit** | [<img src="https://img.shields.io/badge/Replit-F26207?style=for-the-badge&logo=replit&logoColor=white" alt="Replit">](https://replit.com/@stephanieamara1) |
 
 </div>
 
