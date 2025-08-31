@@ -101,12 +101,20 @@ Bem-vindos ao meu perfil do GitHub. Sou uma desenvolvedora apaixonada por aprend
 ## 📚 Estou aprendendo
 <div align="center">
   <table>
-        <td align="center" width="96">
+    <tr>
+      <td align="center" width="96">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="48" height="48" alt="Python" />
         <br>Python
       </td>
-
-
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" />
+        <br>TypeScript
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="48" height="48" alt="React" />
+        <br>React
+      </td>
+    </tr>
   </table>
 </div>
 
