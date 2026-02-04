@@ -20,6 +20,7 @@ Bem-vindos ao meu perfil do GitHub. Sou uma desenvolvedora apaixonada por aprend
 | :--- | :--- |
 | **Microsoft Learn** | [<img src="https://img.shields.io/badge/Microsoft_Learn-258ffa?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Learn">](https://learn.microsoft.com/pt-br/users/stephanieamarante-9524/) |
 | **Credly** | [<img src="https://img.shields.io/badge/Credly-FF6B27?style=for-the-badge&logo=credly&logoColor=white" alt="Credly">](https://www.credly.com/users/stephanie-carolline-amarante/badges#credly) |
+| **Databricks** | [<img src="https://img.shields.io/badge/Databricks-FFFFFF?style=for-the-badge&logo=databricks&logoColor=FF3621" alt="Databricks">](https://credentials.databricks.com/profile/stephanieamarante997139/wallet) |
 
 </div>
 
