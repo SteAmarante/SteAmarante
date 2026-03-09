@@ -1,5 +1,5 @@
 <div align="left">
-  <img src="imagem/octocat-1773067156589.png" width="200" align="right"/>
+  <img src="https://raw.githubusercontent.com/SteAmarante/SteAmarante/main/images/octocat-1773067156589.png" width="200" align="left"/>
 
   ### Olá, sou a Stephanie! 👋
 
