@@ -1,6 +1,6 @@
 ### Olá, sou a Stephanie! 👋
 
-Bem-vindos ao meu perfil do GitHub. Sou uma desenvolvedora apaixonada por aprender. Cursando o último semestre de Análise e Desenvolvimento de Sistemas na Fatec Ipiranga. Atualmente, meu foco é em ciência/engenharia de dados e aprendizado de máquina, por isso a maior parte da minha atividade está em Jupyter Notebook.
+Bem-vindos ao meu perfil do GitHub. Sou uma desenvolvedora apaixonada por aprender. Graduada em Licenciatura de Letras - Português/Inglês e em Análise e Desenvolvimento de Sistemas. Atualmente, meu foco é em ciência/engenharia de dado, IA generativa,  aprendizado de máquina e desenvolvimento orientado por especificações (SDD), por isso a maior parte da minha atividade está em Jupyter Notebook.
 
 ---
 
