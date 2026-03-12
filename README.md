@@ -10,6 +10,7 @@
   a maior parte da minha atividade está em Jupyter Notebook.
 </div>
 
+
 ---
 
 <div align="center">
