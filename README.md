@@ -7,7 +7,7 @@
   Graduada em Licenciatura de Letras - Português/Inglês e em Análise e Desenvolvimento
   de Sistemas. Atualmente, meu foco é em ciência/engenharia de dados, IA generativa,
   aprendizado de máquina e desenvolvimento orientado por especificações (SDD), por isso
-  a maior parte da minha atividade está em Jupyter Notebook.
+  a maior parte da minha atividade está em Jupyter Notebook.<br><br><br>
 
   
 </div>
