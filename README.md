@@ -201,8 +201,29 @@
 ## ⌨️ Melhore sua Velocidade de Digitação
 
 <div align="center">
-<a href="https://10fastfingers.com/typing-test/portuguese">
-  <img src="http://img.10fastfingers.com/badge/typing-test_4_CM.png" alt="Teste de Digitação" />
-</a>
-<p>Visite o <a href="https://10fastfingers.com/typing-test/portuguese">Teste de Digitação</a> e aprimore sua velocidade!</p>
+  <h3>⚡ Minha evolução no 10FastFingers</h3>
+  
+  <table border="0">
+    <tr>
+      <td align="center">
+        <a href="https://10fastfingers.com/pt/user/steamarante">
+          <img src="images/85ppm.jpeg" alt="85 WPM" width="600">
+        </a>
+        <br>
+        <strong>85 WPM</strong> | 87% precisão
+      </td>
+      <td align="center">
+        <a href="https://10fastfingers.com/pt/user/steamarante">
+          <img src="images/profile-activity-radar.png" alt="Progresso" width="320">
+        </a>
+        <br>
+        <strong>Progresso</strong> em competições
+      </td>
+    </tr>
+  </table>
+  
+  <p>
+    🚀 <a href="https://10fastfingers.com/pt/user/steamarante">Meu perfil no 10FastFingers</a> | 
+    <a href="https://10fastfingers.com/typing-test/portuguese">Teste de digitação</a>
+  </p>
 </div>
