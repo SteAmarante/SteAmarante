@@ -21,8 +21,8 @@ Dedico meus estudos e projetos a **Cybersecurity**, **Engenharia de Dados** e **
 
 <div align="center">
   <a href="https://github.com/SteAmarante">
-    <img loading="lazy" height="180" src="./generated-stats/top-langs.svg" alt="Linguagens mais usadas" />
-    <img loading="lazy" height="180" src="./generated-stats/stats.svg" alt="Estatísticas do GitHub" />
+    <img loading="lazy" height="180" src="./profile/top-langs.svg" alt="Linguagens mais usadas" />
+    <img loading="lazy" height="180" src="./profile/stats.svg" alt="Estatísticas do GitHub" />
   </a>
 </div>
 
