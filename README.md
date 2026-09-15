@@ -20,9 +20,10 @@ Dedico meus estudos e projetos a **Cybersecurity**, **Engenharia de Dados** e **
 ---
 
 <div align="center">
-<a href="https://github.com/SteAmarante">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SteAmarante&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=SteAmarante&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <a href="https://github.com/SteAmarante">
+    <img loading="lazy" height="180" src="./generated-stats/top-langs.svg" alt="Linguagens mais usadas" />
+    <img loading="lazy" height="180" src="./generated-stats/stats.svg" alt="Estatísticas do GitHub" />
+  </a>
 </div>
 
 ---
