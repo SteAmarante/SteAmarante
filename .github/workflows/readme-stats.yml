@@ -1,0 +1,32 @@
+name: Generate Readme Stats
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Executa diariamente à meia-noite
+  workflow_dispatch: # Permite rodar manualmente na aba Actions do GitHub
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      
+      - uses: alexmojaki/github-readme-stats-action@master
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          # Suas configurações personalizadas:
+          show_icons: true
+          theme: dracula
+          include_all_commits: true
+          count_private: true
+          langs_count: 7
+          # Gera os arquivos em uma pasta específica:
+          output_dir: generated-stats
+          
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add generated-stats/
+          git diff-index --quiet HEAD || git commit -m "Update stats"
+          git push
