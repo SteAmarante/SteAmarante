@@ -11,20 +11,19 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      # Action atualizada e ativa na comunidade:
-      - uses: teoxoy/profile-readme-stats@v2
+      - uses: vncp/github-readme-stats-action@main
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          # Configurações do seu perfil:
           show_icons: true
           theme: dracula
           include_all_commits: true
           count_private: true
-          
+          langs_count: 7
+          output_dir: generated-stats
+
       - name: Commit and push changes
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add profile-summary-card-output/ || git add .
+          git add generated-stats/
           git diff-index --quiet HEAD || git commit -m "Update stats"
           git push
