@@ -1,13 +1,17 @@
 <div align="left">
   <img src="https://raw.githubusercontent.com/SteAmarante/SteAmarante/main/images/octocat-1773067156589.png" width="200" align="left"/>
 
-  ### Olá, sou a Stephanie! 👋
+### Olá, sou a Stephanie! 👋
 
-  Bem-vindos ao meu perfil do GitHub. Sou uma desenvolvedora apaixonada por aprender.
-  Graduada em Licenciatura de Letras - Português/Inglês e em Análise e Desenvolvimento
-  de Sistemas. Atualmente, meu foco é em ciência/engenharia de dados, IA generativa,
-  aprendizado de máquina e desenvolvimento orientado por especificações (SDD), por isso
-  a maior parte da minha atividade está em Jupyter Notebook.<br><br><br>
+Bem-vindo(a) ao meu perfil! Sou **Engenheira de Dados** e **Instrutora de Tecnologia**, apaixonada por aprender, ensinar e proteger ecossistemas tecnológicos.
+
+Graduada em **Análise e Desenvolvimento de Sistemas** e **Licenciatura em Letras (Português/Inglês)**, unindo bagagem técnica com facilidade didática.
+
+Atualmente, meu foco principal está em **Segurança da Informação, Cybersecurity, Engenharia de Dados e IA Generativa**. Atuo ministrando tópicos de Segurança de Sistemas, Zero Trust, Criptografia e Governança de Dados Sensíveis, além de sustentar pipelines de dados em ambientes Cloud. 
+
+Dedico meus estudos e projetos a **Cybersecurity**, **Engenharia de Dados** e **Desenvolvimento Orientado por Especificações (SDD)** — razão pela qual grande parte das minhas atividades técnicas está documentada em Jupyter Notebooks.
+
+📫 **Contato**: [LinkedIn](https://www.linkedin.com/in/stephanie-amarante-ti) <br><br><br>
 
   
 </div>
